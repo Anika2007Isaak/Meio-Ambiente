@@ -1,2 +1,5 @@
 # Meio-Ambiente
-Esse site é destinado a falar sobre assuntos que envolvem o mundo do Meio Ambiente
+Esse si
+O meio ambiente refere-se ao conjunto de fatores físicos, biológicos e químicos que cerca os seres vivos, influenciando-os e sendo influenciado por eles. Pode ser entendido também como o conjunto de condições que permitem abrigar e reger a vida em todas as suas formas - os ecossistemas que existem na Terra.
+
+te é destinado a falar sobre assuntos que envolvem o mundo do Meio Ambiente
